@@ -1,5 +1,5 @@
 # c_mini_projects
 ##3 projects using c
-###project 1:simple calculator
-<img width="279" height="140" alt="image" src="https://github.com/user-attachments/assets/27a08a95-dbe9-4892-b6ed-31d743115222" />
+###project 2:grade calculator
+<img width="262" height="200" alt="image" src="https://github.com/user-attachments/assets/dfaa9676-f4e9-4205-a735-3be437076679" />
 
