@@ -11,3 +11,6 @@
 
 <img width="262" height="200" alt="17602700081028416503274481005482" src="https://github.com/user-attachments/assets/4c4baf97-799a-49ce-bb8b-53a83f0b96f4" />
 
+#####project 3: number guessing game
+
+<img width="261" height="216" alt="image" src="https://github.com/user-attachments/assets/0eee4184-be57-4c4c-90a9-abe56cc875a6" />
