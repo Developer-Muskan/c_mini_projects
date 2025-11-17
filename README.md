@@ -1,4 +1,4 @@
-#C_Mini_Projects
+C_Mini_Projects
 
 ## 3 amazing projects using C programming 
 
